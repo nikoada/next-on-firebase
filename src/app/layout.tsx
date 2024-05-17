@@ -23,7 +23,6 @@ export default function RootLayout({
       <body>
         <div className="dots" />
         <Header />
-        {children}
         <div className="bottom-gradient" />
       </body>
     </html>
